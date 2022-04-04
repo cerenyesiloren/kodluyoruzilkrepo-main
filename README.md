@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo
-hsfjfukçhj
+![screenshot](/Screenshot 2022-04-05 000721)

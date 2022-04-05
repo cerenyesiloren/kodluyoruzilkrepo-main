@@ -2,14 +2,14 @@
 Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet de index.html barındıryor.
 
 
-##Installation
+## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
 git clone https://github.com/cerenyesiloren/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programından açınız.
 
 Linux için:
@@ -17,9 +17,9 @@ Linux için:
 cd kodluyoruzilkrepo
 code . 
 ```
-##Contributing
+## Contributing
 Pull  requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
-##License
+## License
 [MIT](https://chooselicense.com/licenses/mit/)
 
